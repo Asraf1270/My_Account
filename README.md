@@ -219,7 +219,7 @@ Writable data/ directory
 
 Setup
 
-git clone https://github.com/your-username/my-account.git
+git clone https://github.com/Asraf1270/my-account.git
 cd my-account
 
 1. Move project to htdocs or www
